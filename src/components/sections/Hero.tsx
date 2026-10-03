@@ -1,5 +1,5 @@
 import heroWebp from '../../assets/hero-couple.webp'
-import heroJpg from '../../assets/hero-couple.jpg'
+import heroJpg from '../../assets/hero-couple.png'
 import { content } from '../../content'
 import { ArrowIcon, ButtonLink } from '../ui/Button'
 import { Responsive } from '../ui/Bits'
