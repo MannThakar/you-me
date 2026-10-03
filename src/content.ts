@@ -92,7 +92,7 @@ export const content = {
   footer: {
     blurb: {
       text: 'A hand-drawn love story by Mannu, for Bachu. Still being written.',
-      short: 'A hand-drawn love story by [YOUR NAME], for [THEIR NAME].',
+      short: 'A hand-drawn love story by Mannu, for Bachu.',
     } as Copy,
     city: 'made with love in Ahmedabad',
   },
